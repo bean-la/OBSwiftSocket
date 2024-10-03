@@ -19,7 +19,7 @@ let package = Package(
         .package(url: "https://github.com/edonv/WSPublisher.git",
                  .branch("main")),
         .package(url: "https://github.com/hirotakan/MessagePacker.git",
-                 .branch("main")),
+                 .branch("master")),
         .package(url: "https://github.com/edonv/CommonExtensions.git",
                  .branch("main")),
         .package(url: "https://github.com/edonv/AsyncCompatibilityKit.git",
